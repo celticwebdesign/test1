@@ -5,7 +5,8 @@ Test 3
 Login 4
 Login 5
 Login 6
-Basket 1<?php
+Basket 1
+Basket 2<?php
 /**
  * The main template file
  *
