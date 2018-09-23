@@ -3,7 +3,8 @@ Test 2
 Login form
 Test 3
 Login 4
-Login 5<?php
+Login 5
+Login 6<?php
 /**
  * The main template file
  *
