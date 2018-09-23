@@ -1,4 +1,5 @@
-<?php
+Test
+Test 2<?php
 /**
  * The main template file
  *
