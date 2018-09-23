@@ -1,7 +1,8 @@
 Test
 Test 2
 Login form
-Test 3<?php
+Test 3
+Login 4<?php
 /**
  * The main template file
  *
